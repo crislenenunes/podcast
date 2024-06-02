@@ -29,8 +29,11 @@ O TechCast é um podcast dedicado a explorar as fronteiras da tecnologia e da in
 
 ## Tecnologias utilizadas
 [ChatGPT](https://chatgpt.com/): Utilizado para a geração de roteiros.
+
 [Canva Pro](https://www.canva.com/): Utilizado para a criação das capas dos episódios.
+
 [ElevenLabs](https://elevantlab.com/): Utilizado para a geração de áudios.
+
 [Capcut](https://www.capcut.com/pt-br/): Utilizado para a edição e tratamento dos áudios.
 
 
